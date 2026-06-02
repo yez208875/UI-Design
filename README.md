@@ -6,6 +6,10 @@
 
 Source design files are kept in `../../source/` at the `ui-web` root.
 
+# Preview
+
+[Web profile](https://yez208875.github.io/UI-Design/)
+
 ## Style switching
 
 Two global style files are kept in `css/`:
